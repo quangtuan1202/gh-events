@@ -12,7 +12,6 @@ on:
     branches:
       - master
       - "dev-*" # dev-new dev-this-is-new
-      - "feat/**" # feat/new feat/new/button
     paths-ignore:
       - './github/workflows/*'
 jobs:
